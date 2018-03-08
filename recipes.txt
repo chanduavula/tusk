@@ -7,6 +7,8 @@ kheer
 pasta
 chicken
 
+beens
+pizza
 
 
 
@@ -17,4 +19,8 @@ chicken
 thank you
 
 
+done my changes
+
+
 final copy
+
